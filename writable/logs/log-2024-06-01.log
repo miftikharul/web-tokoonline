@@ -1,0 +1,44 @@
+CRITICAL - 2024-06-01 07:41:27 --> ErrorException: Undefined array key "thumbnails"
+[Method: GET, Route: home/getProductData/14]
+in APPPATH\Controllers\Home.php on line 25.
+ 1 APPPATH\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "thumbnails"', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Home.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->getProductData('14')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-06-01 07:41:32 --> ErrorException: Undefined array key "thumbnails"
+[Method: GET, Route: home/getProductData/13]
+in APPPATH\Controllers\Home.php on line 25.
+ 1 APPPATH\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "thumbnails"', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Home.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->getProductData('13')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-06-01 07:42:31 --> ErrorException: Undefined array key "thumbnails"
+[Method: GET, Route: home/getProductData/14]
+in APPPATH\Controllers\Home.php on line 25.
+ 1 APPPATH\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "thumbnails"', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Home.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->getProductData('14')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-06-01 07:47:46 --> ErrorException: Undefined array key "thumbnails"
+[Method: GET, Route: home/getProductData/14]
+in APPPATH\Controllers\Home.php on line 25.
+ 1 APPPATH\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "thumbnails"', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Home.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->getProductData('14')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')

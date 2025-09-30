@@ -1,0 +1,541 @@
+CRITICAL - 2024-05-22 07:20:52 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:24:05 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:24:10 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:24:18 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:24:20 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:26:54 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:28:24 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:28:26 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:32:04 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:37:28 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:37:30 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 07:37:31 --> TypeError: trim(): Argument #1 ($string) must be of type string, array given
+[Method: GET, Route: /]
+in SYSTEMPATH\Filters\Filters.php on line 857.
+ 1 SYSTEMPATH\Filters\Filters.php(857): trim([...], '/ ')
+ 2 SYSTEMPATH\Filters\Filters.php(820): CodeIgniter\Filters\Filters->checkPseudoRegex('', [...])
+ 3 SYSTEMPATH\Filters\Filters.php(691): CodeIgniter\Filters\Filters->pathApplies('', [...])
+ 4 SYSTEMPATH\Filters\Filters.php(398): CodeIgniter\Filters\Filters->processFilters('')
+ 5 SYSTEMPATH\Filters\Filters.php(181): CodeIgniter\Filters\Filters->initialize('')
+ 6 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('', 'before')
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+INFO - 2024-05-22 07:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 07:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 07:40:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 07:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-22 07:41:12 --> ErrorException: Undefined array key "username"
+[Method: POST, Route: admin/login]
+in APPPATH\Controllers\Admin\AuthController.php on line 47.
+ 1 APPPATH\Controllers\Admin\AuthController.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Admin\\AuthController.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\AuthController->authenticate()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\AuthController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+INFO - 2024-05-22 07:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 07:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 07:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 07:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 07:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 07:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-22 07:59:04 --> ErrorException: Undefined array key "thumbnails"
+[Method: POST, Route: admin/products/delete/5]
+in APPPATH\Controllers\Admin\ProdukController.php on line 126.
+ 1 APPPATH\Controllers\Admin\ProdukController.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "thumbnails"', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Admin\\ProdukController.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->delete('5')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:02:35 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "1716364952_adc1c26c396662b8205b.jpeg,1716364952_3218d5f72117d8d7e54b.jpeg,1716364952_27d215621313a3d17cc4.jpeg"
+[Method: GET, Route: uploads/1716364952_adc1c26c396662b8205b.jpeg,1716364952_3218d5f72117d8d7e54b.jpeg,1716364952_27d215621313a3d17cc4.jpeg]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('uploads/1716364952_adc1c26c396662b8205b.jpeg,1716364952_3218d5f72117d8d7e54b.jpeg,1716364952_27d215621313a3d17cc4.jpeg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('uploads/1716364952_adc1c26c396662b8205b.jpeg,1716364952_3218d5f72117d8d7e54b.jpeg,1716364952_27d215621313a3d17cc4.jpeg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:02:37 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "1716364952_adc1c26c396662b8205b.jpeg,1716364952_3218d5f72117d8d7e54b.jpeg,1716364952_27d215621313a3d17cc4.jpeg"
+[Method: GET, Route: uploads/1716364952_adc1c26c396662b8205b.jpeg,1716364952_3218d5f72117d8d7e54b.jpeg,1716364952_27d215621313a3d17cc4.jpeg]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('uploads/1716364952_adc1c26c396662b8205b.jpeg,1716364952_3218d5f72117d8d7e54b.jpeg,1716364952_27d215621313a3d17cc4.jpeg')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('uploads/1716364952_adc1c26c396662b8205b.jpeg,1716364952_3218d5f72117d8d7e54b.jpeg,1716364952_27d215621313a3d17cc4.jpeg')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:34:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "admin/products/index.php"
+[Method: GET, Route: admin/products]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/products/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/products/index', [], true)
+ 3 APPPATH\Controllers\Admin\ProdukController.php(20): view('admin/products/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:35:30 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: admin/products]
+in APPPATH\Views\admin\produk\index.php on line 36.
+ 1 APPPATH\Views\admin\produk\index.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Views\\admin\\produk\\index.php', 36)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Views\\admin\\produk\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/index', [], true)
+ 5 APPPATH\Controllers\Admin\ProdukController.php(20): view('admin/produk/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+INFO - 2024-05-22 08:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-22 08:38:19 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png"
+[Method: GET, Route: uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:38:20 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png"
+[Method: GET, Route: uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:39:35 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png"
+[Method: GET, Route: uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:39:37 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png"
+[Method: GET, Route: uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('uploads/1716367096_2438a2fc446b87083fd1.png,1716367096_64281e92d8e6b79c09e5.png')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:52:51 --> ErrorException: Undefined variable $produk
+[Method: GET, Route: admin/products/edit/7]
+in APPPATH\Views\admin\produk\edit.php on line 15.
+ 1 APPPATH\Views\admin\produk\edit.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $produk', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Views\\admin\\produk\\edit.php', 15)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Views\\admin\\produk\\edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('admin/produk/edit', [], true)
+ 5 APPPATH\Controllers\Admin\ProdukController.php(86): view('admin/produk/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:55:01 --> Error: Call to a member function isValid() on array
+[Method: POST, Route: admin/products/update/7]
+in APPPATH\Controllers\Admin\ProdukController.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('7')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:56:35 --> Error: Call to a member function isValid() on array
+[Method: POST, Route: admin/products/update/7]
+in APPPATH\Controllers\Admin\ProdukController.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('7')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:56:44 --> Error: Call to a member function isValid() on array
+[Method: POST, Route: admin/products/update/7]
+in APPPATH\Controllers\Admin\ProdukController.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('7')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:57:06 --> Error: Call to a member function hasMoved() on array
+[Method: POST, Route: admin/products/update/7]
+in APPPATH\Controllers\Admin\ProdukController.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('7')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 08:58:52 --> Error: Call to a member function isValid() on array
+[Method: POST, Route: admin/products/update/7]
+in APPPATH\Controllers\Admin\ProdukController.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('7')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 09:07:35 --> Error: Call to a member function isValid() on array
+[Method: POST, Route: admin/products/update/7]
+in APPPATH\Controllers\Admin\ProdukController.php on line 137.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('7')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+INFO - 2024-05-22 09:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 09:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 09:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 09:19:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 09:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-22 09:28:50 --> ErrorException: unlink(C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\public/uploads/1716369141_fb6a544424d4d0799694.jpeg): No such file or directory
+[Method: POST, Route: admin/products/update/7]
+in APPPATH\Controllers\Admin\ProdukController.php on line 150.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public/uploads/1716369141_fb6a544424d4d0799694.jpeg): No such file or directory', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Admin\\ProdukController.php', 150)
+ 2 APPPATH\Controllers\Admin\ProdukController.php(150): unlink('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public/uploads/1716369141_fb6a544424d4d0799694.jpeg')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('7')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 09:32:00 --> ErrorException: unlink(C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\public/uploads/1716369141_fb6a544424d4d0799694.jpeg): No such file or directory
+[Method: POST, Route: admin/products/update/7]
+in APPPATH\Controllers\Admin\ProdukController.php on line 150.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public/uploads/1716369141_fb6a544424d4d0799694.jpeg): No such file or directory', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Admin\\ProdukController.php', 150)
+ 2 APPPATH\Controllers\Admin\ProdukController.php(150): unlink('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public/uploads/1716369141_fb6a544424d4d0799694.jpeg')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('7')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+INFO - 2024-05-22 09:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:12:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-22 13:20:00 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\MySQLi\Connection.php(308): mysqli->query('UPDATE `produk`...', 0)
+#1 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `produk`...')
+#2 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `produk`...')
+#3 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\BaseBuilder.php(2497): CodeIgniter\Database\BaseConnection->query('UPDATE `produk`...', Array, false)
+#4 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Model.php(450): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\BaseModel.php(1028): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Model.php(854): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\app\Controllers\Admin\ProdukController.php(168): CodeIgniter\Model->update('9', Array)
+#8 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('9')
+#9 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+#10 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamau...')
+#15 {main}
+CRITICAL - 2024-05-22 13:20:01 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: admin/products/update/9]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2497): CodeIgniter\Database\BaseConnection->query('UPDATE `produk` SET `nama_produk` = :nama_produk:, `harga` = :harga:, `kategori` = :kategori:, `deskripsi` = :deskripsi:, `foto` = :foto:, `thumbnail` = :thumbnail:
+WHERE `produk`.`id` IN :produk.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(450): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(854): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\Admin\ProdukController.php(168): CodeIgniter\Model->update('9', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('9')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 13:20:01 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `produk` SET `nama_produk` = \'Jin\', `harga` = \'20000.00\', `kategori` = \'men\', `deskripsi` = \'fdgggdgg\', `foto` = \'1716383341_9e84d862d83d17c80ec1.jpeg\', `thumbnail` = (\'1716384000_2a0d46892a81fd31c247.jpeg\',\'1716384000_a98307fd28282a0a2e31.jpeg\',\'1716384000_193e5e23d2b664282672.jpeg\')
+WHERE `produk`.`id` IN (\'9\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `produk` SET `nama_produk` = \'Jin\', `harga` = \'20000.00\', `kategori` = \'men\', `deskripsi` = \'fdgggdgg\', `foto` = \'1716383341_9e84d862d83d17c80ec1.jpeg\', `thumbnail` = (\'1716384000_2a0d46892a81fd31c247.jpeg\',\'1716384000_a98307fd28282a0a2e31.jpeg\',\'1716384000_193e5e23d2b664282672.jpeg\')
+WHERE `produk`.`id` IN (\'9\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2497): CodeIgniter\Database\BaseConnection->query('UPDATE `produk` SET `nama_produk` = :nama_produk:, `harga` = :harga:, `kategori` = :kategori:, `deskripsi` = :deskripsi:, `foto` = :foto:, `thumbnail` = :thumbnail:
+WHERE `produk`.`id` IN :produk.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(450): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(854): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\Admin\ProdukController.php(168): CodeIgniter\Model->update('9', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('9')
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 13:20:01 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('UPDATE `produk` SET `nama_produk` = \'Jin\', `harga` = \'20000.00\', `kategori` = \'men\', `deskripsi` = \'fdgggdgg\', `foto` = \'1716383341_9e84d862d83d17c80ec1.jpeg\', `thumbnail` = (\'1716384000_2a0d46892a81fd31c247.jpeg\',\'1716384000_a98307fd28282a0a2e31.jpeg\',\'1716384000_193e5e23d2b664282672.jpeg\')
+WHERE `produk`.`id` IN (\'9\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `produk` SET `nama_produk` = \'Jin\', `harga` = \'20000.00\', `kategori` = \'men\', `deskripsi` = \'fdgggdgg\', `foto` = \'1716383341_9e84d862d83d17c80ec1.jpeg\', `thumbnail` = (\'1716384000_2a0d46892a81fd31c247.jpeg\',\'1716384000_a98307fd28282a0a2e31.jpeg\',\'1716384000_193e5e23d2b664282672.jpeg\')
+WHERE `produk`.`id` IN (\'9\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `produk` SET `nama_produk` = \'Jin\', `harga` = \'20000.00\', `kategori` = \'men\', `deskripsi` = \'fdgggdgg\', `foto` = \'1716383341_9e84d862d83d17c80ec1.jpeg\', `thumbnail` = (\'1716384000_2a0d46892a81fd31c247.jpeg\',\'1716384000_a98307fd28282a0a2e31.jpeg\',\'1716384000_193e5e23d2b664282672.jpeg\')
+WHERE `produk`.`id` IN (\'9\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2497): CodeIgniter\Database\BaseConnection->query('UPDATE `produk` SET `nama_produk` = :nama_produk:, `harga` = :harga:, `kategori` = :kategori:, `deskripsi` = :deskripsi:, `foto` = :foto:, `thumbnail` = :thumbnail:
+WHERE `produk`.`id` IN :produk.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(450): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(854): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\ProdukController.php(168): CodeIgniter\Model->update('9', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('9')
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+CRITICAL - 2024-05-22 13:21:35 --> ErrorException: unlink(C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\public/uploads/thumbnail/1716383341_cbaff616c6bf76abd28c.jpeg): No such file or directory
+[Method: POST, Route: admin/products/update/9]
+in APPPATH\Controllers\Admin\ProdukController.php on line 150.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public/uploads/thumbnail/1716383341_cbaff616c6bf76abd28c.jpeg): No such file or directory', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Controllers\\Admin\\ProdukController.php', 150)
+ 2 APPPATH\Controllers\Admin\ProdukController.php(150): unlink('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public/uploads/thumbnail/1716383341_cbaff616c6bf76abd28c.jpeg')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin\ProdukController->update('9')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProdukController))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+INFO - 2024-05-22 13:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:27:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 13:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-05-22 13:51:14 --> mysqli_sql_exception: Can't create table `sitoko_db`.`cart` (errno: 150 "Foreign key constraint is incorrectly formed") in C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\MySQLi\Connection.php(308): mysqli->query('CREATE TABLE `c...', 0)
+#1 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `c...')
+#2 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `c...')
+#3 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `c...')
+#4 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\app\Database\Migrations\2024-05-22-134435_CreateCartTable.php(48): CodeIgniter\Database\Forge->createTable('cart')
+#5 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateCartTable->up()
+#6 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Boot.php(338): CodeIgniter\CLI\Console->run()
+#11 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\system\Boot.php(104): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\Users\ekamaulanablp\Downloads\web_tokoonline_update\web-tokoonline\spark(84): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
+INFO - 2024-05-22 15:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 15:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 15:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 15:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 15:21:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-05-22 15:36:19 --> ErrorException: Undefined variable $thumbnail
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 505.
+ 1 APPPATH\Views\home.php(505): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $thumbnail', 'C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Views\\home.php', 505)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\app\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Home.php(17): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\Users\\ekamaulanablp\\Downloads\\web_tokoonline_update\\web-tokoonline\\public\\index.php')
+INFO - 2024-05-22 15:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 15:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 16:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 16:02:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 16:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 16:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-05-22 16:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
